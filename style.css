@@ -11,7 +11,7 @@ html {
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #eef2f7;
-    color: #ff0101;
+    color: #0a0101;
     line-height: 1.6;
 }
 
@@ -178,7 +178,7 @@ li {
 
 .curiosidade {
     background-color: #fff7ed;
-    border-left: 5px solid #f97316;
+    border-left: 5px solid #161df9;
     padding: 20px;
 }
 
