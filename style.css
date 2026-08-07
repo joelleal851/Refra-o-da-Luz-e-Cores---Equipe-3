@@ -57,7 +57,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: #4338ca;
+    background-color: #c5050b;
 }
 
 
@@ -78,7 +78,7 @@ section {
 }
 
 section h2 {
-    color: #3730a3;
+    color: #c60e0e;
     margin-bottom: 15px;
     font-size: 26px;
 }
